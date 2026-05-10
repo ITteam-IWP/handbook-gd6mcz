@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ITteam-IWP.github.io/handbook-gd6mcz/sitemap.xml
